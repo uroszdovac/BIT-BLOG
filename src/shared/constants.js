@@ -1,0 +1,1 @@
+export const serviceURL = 'https://jsonplaceholder.typicode.com/';
